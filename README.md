@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Roullito/Roullito/main/banner.png" alt="ROULLITO banner playful style" />
+  <img src="https://raw.githubusercontent.com/Roullito/Roullito/main/30%20avr.%202025,%2014_55_06.png" alt="ROULLITO banner" />
 </p>
-
 
 # 👋 Hi there, I'm Roullito!
 
