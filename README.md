@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Roullito/Roullito/main/banner.png" alt="ROULLITO banner playful style" />
+</p>
+
+
 # 👋 Hi there, I'm Roullito!
 
 Welcome to my GitHub profile!  
