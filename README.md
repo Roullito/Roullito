@@ -18,10 +18,12 @@ Welcome to my GitHub profile!
 - 🛠 Tools: Git, Ubuntu, VSCode, command line, and raw curiosity
 - 💼 Open to: internships, collaborations, freelance, startups… I’m up for any challenge!
 - 📫 How to reach me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jules-moleins-1a8b112b2) 
-  ✉️ **jmoleins@gmail.com**  
-  🌐 [GitHub Portfolio](https://github.com/Roullito)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jules-moleins-1a8b112b2)
+[![Email](https://img.shields.io/badge/Email-jmoleins@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jmoleins@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Roullito-181717?style=flat&logo=github&logoColor=white)](https://github.com/Roullito)
+[![Malt](https://img.shields.io/badge/Malt-Freelance-EF426F?style=flat&logo=malt&logoColor=white)](https://www.malt.fr/profile/julesmoleins)
 
+  
 ---
 
 ## 🛠️ My Current Stack
