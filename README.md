@@ -51,6 +51,8 @@ _Soon: React, Node.js, SQL, MongoDB, Docker..._
 | [Simple Shell](https://github.com/Roullito/holbertonschool-simple_shell) | A basic shell written in C (command parsing, fork, execve, etc.) |
 | [Printf](https://github.com/Roullito/holbertonschool-printf) | Full reimplementation of the `printf` function in C |
 | [Low Level Programming](https://github.com/Roullito/holbertonschool-low_level_programming) | C basics, memory management, recursion, data structures and more |
+| [HBnB](https://github.com/Roullito/holbertonschool-hbnb) | A full clone of the Airbnb web app: backend classes, file storage, console interpreter |
+
 
 ---
 
