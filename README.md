@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Roullito/Roullito/main/30%20avr.%202025,%2014_55_06.png" alt="ROULLITO banner" />
+  <a href="https://github.com/Roullito" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980b9,100:6dd5fa&height=200&section=header&text=Roullito%20🚀&fontSize=40&fontAlignY=35&desc=Holberton%20School%20Developer&descAlignY=60&descAlign=60" alt="banner Jules Moleins"/>
+  </a>
 </p>
 
 # 👋 Hi there, I'm Roullito!
