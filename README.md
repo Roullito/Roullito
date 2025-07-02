@@ -59,11 +59,13 @@ _Soon: React, Node.js, SQL, MongoDB, Docker..._
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roullito&show_icons=true&theme=tokyonight&count_private=true&hide=prs" alt="Roullito GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Roullito&show_icons=true&theme=tokyonight&v=2" alt="Roullito GitHub stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roullito&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Roullito&theme=tokyonight&v=2" alt="GitHub streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roullito&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Roullito&theme=tokyonight&v=2" alt="Trophies" />
+  </a>
 </p>
 
 ---
