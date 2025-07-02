@@ -13,9 +13,10 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: a custom **Simple Shell**, a full reimplementation of **printf**, and several C-based projects
-- 🌱 Learning: **C, Git, Linux, Bash**, and soon **Python, JavaScript, APIs, SQL/NoSQL**, and more
-- 🛠 Tools: Git, Ubuntu, VSCode, command line, and raw curiosity
+- 🔭 Currently building: a **crypto trading bot** in Python, a **restaurant reservation app** (Django), an **Airbnb clone (HBnB)**, and advanced C projects (shell, printf, REST API)
+- 🌱 Techs mastering: **Python**, **C**, **Django**, **Flask**, **JavaScript**, **HTML/CSS**, **Git**, **SQL/MySQL**, **Linux**, **Bash**
+- 🧠 Interests: Backend, automation, AI/Machine Learning, security, data analysis
+- 🛠 Tools: Ubuntu, VSCode, Git, REST APIs, CLI, Postman, and a strong passion for clean code
 - 💼 Open to: internships, collaborations, freelance, startups… I’m up for any challenge!
 - 📫 How to reach me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jules-moleins-1a8b112b2)
