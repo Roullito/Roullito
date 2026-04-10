@@ -1,93 +1,123 @@
 <p align="center">
   <a href="https://github.com/Roullito" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980b9,100:6dd5fa&height=200&section=header&text=Roullito%20🚀&fontSize=40&fontAlignY=35&desc=Holberton%20School%20Developer&descAlignY=60&descAlign=60" alt="banner Jules Moleins"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Roullito%20🚀&fontSize=40&fontAlignY=35&desc=Backend%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descAlign=60" alt="banner Roullito"/>
   </a>
 </p>
 
-# 👋 Hi there, I'm Roullito!
+# 👋 Hi, I'm Roullito
 
-Welcome to my GitHub profile!  
-🎓 I'm currently enrolled at **Holberton School**, diving deep into low-level programming with C and preparing to become a fullstack developer. From command-line tools to system-level code, I'm building a strong foundation to specialize later in **systems, blockchain, cybersecurity**, or **AI/Machine Learning**.
+🎓 **Holberton School Student**  
+💻 Backend Developer (Python / C / APIs)  
+🔐 Passionate about **Cybersecurity, Bug Bounty & Pentesting**
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently building: a **crypto trading bot** in Python, a **restaurant reservation app** (Django), an **Airbnb clone (HBnB)**, and advanced C projects (shell, printf, REST API)
-- 🌱 Techs mastering: **Python**, **C**, **Django**, **Flask**, **JavaScript**, **HTML/CSS**, **Git**, **SQL/MySQL**, **Linux**, **Bash**
-- 🧠 Interests: Backend, automation, AI/Machine Learning, security, data analysis
-- 🛠 Tools: Ubuntu, VSCode, Git, REST APIs, CLI, Postman, and a strong passion for clean code
-- 💼 Open to: internships, collaborations, freelance, startups… I’m up for any challenge!
-- 📫 How to reach me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jules-moleins-1a8b112b2)
-[![Email](https://img.shields.io/badge/Email-jmoleins@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jmoleins@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Roullito-181717?style=flat&logo=github&logoColor=white)](https://github.com/Roullito)
-[![Malt](https://img.shields.io/badge/Malt-Freelance-EF426F?style=flat&logo=malt&logoColor=white)](https://www.malt.fr/profile/julesmoleins)
+I'm a developer with a strong foundation in low-level programming and backend systems, currently expanding my expertise into **offensive security**.
 
-  
+- 🔭 Building real-world projects combining **development & security**
+- 🧠 Focus on: **Backend, APIs, automation, security**
+- 🧪 Practicing on:
+  - Bug Bounty programs
+  - CTF platforms like :contentReference[oaicite:0]{index=0}
+  - Realistic pentesting labs
+- ⚔️ Approach: Think like a developer **and** an attacker
+
 ---
 
-## 🛠️ My Current Stack
+## 🔐 Cybersecurity Journey
+
+- 🕵️‍♂️ Active on **Bug Bounty platforms** (web vulnerabilities, IDOR, LFI/RFI, injections…)
+- 🧪 Hands-on labs & challenges (CTF, web exploitation, API security)
+- 🛠 Tools used:
+  - Burp Suite
+  - Nmap
+  - ffuf / gobuster
+  - Linux / Bash
+- 📄 Writing structured **security reports** (reproduction, impact, mitigation)
+
+👉 Some reports and write-ups may be shared in dedicated repositories.
+
+---
+
+## 💻 Featured Projects
+
+### 🧠 Smart Trading Bot
+- Python backend application interacting with market APIs
+- Data collection → signal generation → risk management → execution
+- Focus on architecture, automation, and scalability
+
+---
+
+### ⚽ PSG Academy Project
+- Data processing & analysis tool for performance tracking
+- Aggregation of multiple data sources (match stats, player performance)
+- Designed for coaches and staff decision-making
+
+---
+
+### 🏠 HBnB (Airbnb Clone)
+- Full backend architecture
+- ORM, database design, API logic
+- Focus on scalability and clean architecture
+
+---
+
+### 🐚 Simple Shell (C)
+- Unix shell implementation (fork, execve, parsing)
+- Deep understanding of system-level programming
+
+---
+
+### 🧾 Custom printf (C)
+- Reimplementation of `printf`
+- Variadic functions, memory handling, formatting
+
+---
+
+## 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![API REST](https://img.shields.io/badge/API-REST-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-_Soon: React, Node.js, SQL, MongoDB, Docker..._
-
----
-
-## 📌 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [Simple Shell](https://github.com/Roullito/holbertonschool-simple_shell) | A basic shell written in C (command parsing, fork, execve, etc.) |
-| [Printf](https://github.com/Roullito/holbertonschool-printf) | Full reimplementation of the `printf` function in C |
-| [Low Level Programming](https://github.com/Roullito/holbertonschool-low_level_programming) | C basics, memory management, recursion, data structures and more |
-| [HBnB](https://github.com/Roullito/holbertonschool-hbnb) | A full clone of the Airbnb web app: backend classes, file storage, console interpreter |
-| [Higher Level Programming](https://github.com/Roullito/holbertonschool-higher_level_programming) | Python fundamentals: OOP, web, REST APIs, SQL/MySQL, unit tests, data structures, and algorithms |
-
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![API REST](https://img.shields.io/badge/API-REST-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roullito&show_icons=true&theme=tokyonight&v=2" alt="Roullito GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Roullito&show_icons=true&theme=tokyonight&v=2" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=Roullito&theme=tokyonight" alt="GitHub Streak" />
-  <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Roullito&theme=tokyonight&v=2" alt="Trophies" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Roullito&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎯 Career Goals
+## 🎯 Career Focus
 
-My next step: pursue a **Bachelor’s in Computer Science** with a focus on:
+I aim to build a strong profile at the intersection of:
 
-- Systems & DevOps
-- Cybersecurity
-- AI & Machine Learning
-- Blockchain & Web3
-
-I'm passionate about tech, innovation, and solving real-world problems through code.
+- 🔐 Cybersecurity / Pentesting
+- 🧠 Backend Development
+- ⚙️ Systems Programming
 
 ---
 
-## 🖖 Thanks for stopping by!
+## 📫 Contact
 
-Wanna chat tech or collaborate on a cool project?  
-Feel free to connect or ⭐️ my repos if they inspire you!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jules-moleins-1a8b112b2)
+[![Email](https://img.shields.io/badge/Email-jmoleins@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jmoleins@gmail.com)
+[![Malt](https://img.shields.io/badge/Malt-Freelance-EF426F?style=flat&logo=malt&logoColor=white)](https://www.malt.fr/profile/julesmoleins)
 
+---
+
+## 🖖 Final Note
+
+I’m constantly learning, building, and breaking things (ethically).  
+If you're working on something interesting — let’s connect 🚀
