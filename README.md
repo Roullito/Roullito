@@ -6,9 +6,9 @@
 
 # 👋 Hi, I'm Roullito
 
-🎓 **Graduate in Web & Mobile Development** 
-💻 Backend Developer (Python / C / JS / APIs)
-🔐 Passionate about **Cybersecurity, Bug Bounty & Pentesting**
+- 🎓 **Graduate in Web & Mobile Development** 
+- 💻 Backend Developer (Python / C / JS / APIs)
+- 🔐 Passionate about **Cybersecurity, Bug Bounty & Pentesting**
 
 ---
 
