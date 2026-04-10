@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Roullito
 
-🎓 **Graduate in Web & Mobile Development (RNCP 5)** – Holberton School  
+🎓 **Graduate in Web & Mobile Development** 
 💻 Backend Developer (Python / C / APIs)  
 🔐 Passionate about **Cybersecurity, Bug Bounty & Pentesting**
 
