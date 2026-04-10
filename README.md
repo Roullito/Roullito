@@ -19,7 +19,7 @@ I'm a developer with a strong foundation in low-level programming and backend sy
 - 🔭 Building real-world projects combining **development & security**
 - 🧠 Focus on: **Backend, APIs, automation, security**
 - ⚔️ Mindset: Think like a developer **and** an attacker
-- 🎯 Goal: Become a highly skilled **Backend / Security Engineer**
+- 🎯 Goal: Become a highly skilled **pentester**
 
 ---
 
