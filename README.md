@@ -25,8 +25,8 @@ I'm a developer with a strong foundation in low-level programming and backend sy
 
 ## 🔐 Cybersecurity Journey
 
-- 🕵️‍♂️ Active on bug bounty platforms like :contentReference[oaicite:1]{index=1}  
-- 🧪 Training on :contentReference[oaicite:2]{index=2} and realistic pentesting labs  
+- 🕵️‍♂️ Active on bug bounty platforms like [YesWeHack](https://yeswehack.com/user/profile#latest-hacktivity)  
+- 🧪 Training on [TryHackMe](https://tryhackme.com) and hands-on pentesting labs  
 - 🔍 Focus on:
   - Web vulnerabilities (IDOR, LFI/RFI, injections…)
   - API security
