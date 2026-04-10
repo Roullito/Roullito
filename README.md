@@ -90,18 +90,6 @@ I'm a developer with a strong foundation in low-level programming and backend sy
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roullito&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Roullito&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roullito&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Career Focus
 
 I’m building expertise at the intersection of:
