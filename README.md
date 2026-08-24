@@ -1,114 +1,66 @@
-<p align="center">
-  <a href="https://github.com/Roullito" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:2F80ED&height=200&section=header&text=Roullito%20🚀&fontSize=40&fontAlignY=35&desc=Backend%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descAlign=60" alt="banner Roullito"/>
-  </a>
-</p>
+# Hi, I'm Jules Moleins
 
-# 👋 Hi, I'm Roullito
+- Software developer transitioning into offensive security
+- Finishing Holberton School's cybersecurity specialization
+- Focused on Web application and API penetration testing
+- Member of the **Holberton Red Team Department**
+- Based in France — open to remote, EU and international opportunities
 
-- 🎓 **Graduate in Web & Mobile Development** 
-- 💻 Backend Developer (Python / C / JS / APIs)
-- 🔐 Passionate about **Cybersecurity, Bug Bounty & Pentesting**
+I come from a software development background (Python, Flask, Django, REST APIs, SQLAlchemy) and I'm now specializing in offensive security, with hands-on practice in web/API pentesting, an authorized Red Team assessment, and ongoing CTF/TryHackMe training.
 
----
+## Offensive Security
 
-## 🚀 About Me
+My focus is web application and API security: authentication and authorization testing, access-control issues (IDOR, privilege escalation), business-logic flaws, and input-handling vulnerabilities, mapped against the OWASP Top 10 and the OWASP Web Security Testing Guide (WSTG). I work primarily with Burp Suite, and I'm comfortable taking a finding from initial discovery through to a reproducible, client-ready report (impact, reproduction steps, mitigation).
 
-I'm a developer with a strong foundation in low-level programming and backend systems, now expanding into **offensive security**.
+I'm a member of the **Holberton Red Team Department**, a global offensive security team with contributors from France, Azerbaijan and Uruguay. The team performs authorized penetration testing of Holberton systems and affiliated projects, pre-release security QA, and vulnerability research and reporting.
 
-- 🔭 Building real-world projects combining **development & security**
-- 🧠 Focus on: **Backend, APIs, automation, security**
-- ⚔️ Mindset: Think like a developer **and** an attacker
-- 🎯 Goal: Become a highly skilled **pentester**
+Recently, I participated in the **pre-production security assessment of the LxL platform** (app.lxl.tech), a real product built for international users rather than a CTF exercise. My part of the engagement covered authentication, access control, input handling, and application logic/functionality testing, with findings documented as structured reports (screenshots, reproduction steps, impact). Confidential findings and technical details from that assessment are not published in this profile.
 
----
+## Current Training
 
-## 🔐 Cybersecurity Journey
+- 50+ rooms completed on TryHackMe; the Red Team learning path is in progress (Linux, Windows, networking, Nmap, Burp Suite, reconnaissance, web pentesting, SQL injection, network services, and Active Directory basics)
+- Preparing for the **CompTIA Security+ (SY0-701)** exam, targeted for late 2026
+- Practicing on **YesWeHack / Dojo**, with 2 findings accepted on Dojo challenges, alongside the informative, duplicate and out-of-scope triage outcomes that come with the territory — these are Dojo challenge findings, not paid bug bounty rewards
 
-- 🕵️‍♂️ Active on bug bounty platforms like [YesWeHack](https://yeswehack.com/user/profile#latest-hacktivity)  
-- 🧪 Training on [TryHackMe](https://tryhackme.com) and hands-on pentesting labs  
-- 🔍 Focus on:
-  - Web vulnerabilities (IDOR, LFI/RFI, injections…)
-  - API security
-  - Logic flaws & misconfigurations
-- 🛠 Tools:
-  - Burp Suite
-  - Nmap
-  - ffuf / gobuster
-  - Linux / Bash
-- 📄 Writing structured **security reports** (impact, exploitation, mitigation)
+## Development Background
 
-👉 Some write-ups & reports will be shared in dedicated repositories.
+My development background is what strengthens my application-security work: I can read and reason about a codebase, understand how authentication, ORMs and API layers are actually implemented, and write small tools or PoCs instead of relying only on off-the-shelf scanners.
 
----
+Languages and frameworks I work with: Python, Bash, JavaScript, C, SQL, Flask, Django, REST APIs, SQLAlchemy, Docker, Git.
 
-## 💻 Featured Projects
+## Selected Projects
 
-### 🧠 Smart Trading Bot
-- Python backend interacting with market APIs
-- Data → signals → risk management → execution
-- Focus on architecture & automation
+**[holbertonschool-cyber_security](https://github.com/Roullito/holbertonschool-cyber_security)**
+Cybersecurity coursework repository covering Linux security (permissions, auditing, buffer overflows), network security (reconnaissance, Nmap, Wireshark), web application security (OWASP-based testing), and cryptography/forensics basics. Direct evidence of the security fundamentals behind the pentesting work above.
 
----
+**GyoRecon** *(private — early MVP)*
+A local bug-bounty scoping and evidence-management assistant I'm building (FastAPI, React, PostgreSQL) to help structure recon, track program scope, and organize evidence ahead of reporting — not an automated exploitation tool. Still early-stage, so the repository isn't public yet.
 
-### ⚽ PSG Academy Project
-- Data aggregation & analysis tool
-- Performance tracking (team & players)
-- Designed for coaches & staff
+**[holbertonschool-hbnb](https://github.com/Roullito/holbertonschool-hbnb)**
+REST API built with Flask-RESTx, JWT authentication and SQLAlchemy, developed with a 3-person team as an Airbnb-style backend covering user/place/review modeling, authorization rules and relational data design. Building the auth and access-control logic myself makes it easier to recognize and test for the same bug classes (broken auth, IDOR, privilege escalation) in real applications.
 
----
+**Smart Trading Bot** *(private)*
+A Python algorithmic trading system for crypto futures markets: multi-threaded architecture, exchange API integration, configurable risk management (position sizing, exposure limits, cooldowns) and strategy backtesting. Built as a systems/automation project rather than a security one — kept private.
 
-### 🏠 HBnB (Airbnb Clone)
-- Backend architecture + ORM
-- Database design & API logic
-- Clean scalable structure
+**[PSG](https://github.com/Roullito/PSG)**
+Full-stack sports analytics platform (FastAPI, PostgreSQL, SQLAlchemy, React) built to replace manual Excel-based match and player tracking for a football academy with a structured API and analytics dashboard. Strongest example of my backend/API design work: schema design, data-integrity constraints enforced at the database level, and a documented REST API.
 
----
+**[holbertonschool-simple_shell](https://github.com/Roullito/holbertonschool-simple_shell)**
+Unix shell implemented in C (fork, execve, PATH resolution, custom parsing) to explore process management and system calls at a low level — the same layer that exploitation and privilege-escalation work depends on.
 
-### 🐚 Simple Shell (C)
-- Unix shell (fork, execve, parsing)
-- System-level programming
+## Tools
 
----
+**Security:** Burp Suite, Nmap, Nuclei, ffuf / Gobuster, Wireshark, Metasploit, Kali Linux
+**Development:** Python, Bash, JavaScript, C, SQL, Flask, Docker, Git
 
-### 🧾 Custom printf (C)
-- Variadic functions
-- Memory management & formatting
+## What I'm Working On
 
----
+- Finishing Holberton School's cybersecurity specialization
+- Red Team training and assessments within the Holberton Red Team Department
+- Preparing for CompTIA Security+ (SY0-701)
+- Improving my Web/API penetration-testing methodology (OWASP WSTG, Burp Suite workflows)
 
-## 🛠️ Tech Stack
+## Contact
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![API REST](https://img.shields.io/badge/API-REST-6DB33F?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-
----
-
-## 🎯 Career Focus
-
-I’m building expertise at the intersection of:
-
-- 🔐 Cybersecurity / Pentesting
-- 🧠 Backend Development
-- ⚙️ Systems Programming
-
----
-
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jules-moleins-1a8b112b2)
-[![Email](https://img.shields.io/badge/Email-jmoleins@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jmoleins@gmail.com)
-[![YesWeHack](https://img.shields.io/badge/YesWeHack-Bug%20Bounty-black?style=flat)](https://yeswehack.com/user/profile#latest-hacktivity)
-
----
-
-## 🖖 Final Note
-
-I’m constantly learning, building, and breaking things (ethically).  
-If you're working on something interesting — let’s connect 🚀
+- GitHub: [@Roullito](https://github.com/Roullito)
+- LinkedIn: [linkedin.com/in/jules-moleins-1a8b112b2](https://www.linkedin.com/in/jules-moleins-1a8b112b2)
